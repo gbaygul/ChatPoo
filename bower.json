@@ -1,0 +1,17 @@
+{
+  "name": "chatpoo",
+  "description": "",
+  "main": "",
+  "authors": [
+    "gunes baygul"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "chat",
+    "nodejs"
+  ],
+  "homepage": "https://github.com/gbaygul/ChatPoo",
+  "dependencies": {
+    "angular": "^1.7.7"
+  }
+}
